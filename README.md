@@ -13,7 +13,7 @@ Qwen recommend a business, and gives you the tools to improve it. Free
 ## Install (from source)
 
 ```bash
-git clone https://github.com/eleayuen-png/visora-cli.git
+git clone https://github.com/Visora-Co/visora-cli.git
 cd visora-cli
 npm install
 npm link        # makes `visora` available globally

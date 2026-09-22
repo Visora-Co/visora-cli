@@ -9,10 +9,10 @@
   "main": "index.js",
   "keywords": ["geo", "ai-visibility", "seo", "llms-txt", "hong-kong", "generative-engine-optimization", "ai-search"],
   "homepage": "https://visoraco.com",
-  "bugs": "https://github.com/eleayuen-png/visora-cli/issues",
+  "bugs": "https://github.com/Visora-Co/visora-cli/issues",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eleayuen-png/visora-cli.git"
+    "url": "git+https://github.com/Visora-Co/visora-cli.git"
   },
   "scripts": {
     "test": "vitest run",
